@@ -1,0 +1,35 @@
+////
+////  KakaoChatTableViewCell.swift
+////  Twitter_starter
+////
+////  Created by James Kim on 7/27/20.
+////  Copyright © 2020 James Kim. All rights reserved.
+////
+//
+//import UIKit
+//
+//class KakaoChatTableViewCell: UITableViewCell {
+//    /*
+//     TODO: senderImageView, nameLabel, lastMessageLabel, lastSentDateLabel를 만들어서 outlet으로 추가해주세요. 카카오 챗뷰 파일 아래에 붙혀넣었습니다.
+//     */
+////    @IBOutlet weak var senderImageView: UIImageView?
+////    @IBOutlet weak var nameLabel: UILabel?
+////    @IBOutlet weak var lastMessageLabel: UILabel?
+////    @IBOutlet weak var lastSentDateLabel: UILabel?
+//
+//
+//    func configure(message: Message?) {
+//        /*
+//         TODO: Cell이 생성되는 시점에서 메세지를 불러 렌더링해주세요 카카오챗뷰 파일 아래에 붙혀 넣었습니다.
+////
+////         예를들어..
+////         senderImageView.image = message.senderImage
+////         */
+////        guard let chat = message else { return }
+////        senderImageView?.image = chat.senderImageName
+////        nameLabel?.text = chat.senderName
+////        lastMessageLabel?.text = chat.lastMessage
+////        lastSentDateLabel?.text = chat.lastSentDate
+//    }
+//}
+
